@@ -1,4 +1,4 @@
-package com.github.cesargh.forohub.domain.usuario.records;
+package com.github.nelkha.forohub.domain.usuario.records;
 
 import jakarta.validation.constraints.*;
 

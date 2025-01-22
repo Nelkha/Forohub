@@ -1,6 +1,6 @@
-package com.github.cesargh.forohub.domain.usuario.validations;
+package com.github.nelkha.forohub.domain.usuario.validations;
 
-import com.github.cesargh.forohub.domain.topico.Topico;
+import com.github.nelkha.forohub.domain.topico.Topico;
 import lombok.Getter;
 import org.springframework.validation.FieldError;
 

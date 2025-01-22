@@ -1,4 +1,4 @@
-package com.github.cesargh.forohub;
+package com.github.nelkha.forohub;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.github.cesargh.forohub.domain.perfil;
+package com.github.nelkha.forohub.domain.perfil;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

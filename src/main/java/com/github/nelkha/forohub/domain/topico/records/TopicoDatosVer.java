@@ -1,7 +1,7 @@
-package com.github.cesargh.forohub.domain.topico.records;
+package com.github.nelkha.forohub.domain.topico.records;
 
-import com.github.cesargh.forohub.domain.topico.Estado;
-import com.github.cesargh.forohub.domain.topico.Topico;
+import com.github.nelkha.forohub.domain.topico.Estado;
+import com.github.nelkha.forohub.domain.topico.Topico;
 
 import java.time.LocalDateTime;
 

@@ -1,9 +1,9 @@
-package com.github.cesargh.forohub.controller;
+package com.github.nelkha.forohub.controller;
 
-import com.github.cesargh.forohub.domain.topico.*;
-import com.github.cesargh.forohub.domain.topico.records.TopicoDatosActualizar;
-import com.github.cesargh.forohub.domain.topico.records.TopicoDatosCrear;
-import com.github.cesargh.forohub.domain.topico.records.TopicoDatosVer;
+import com.github.nelkha.forohub.domain.topico.*;
+import com.github.nelkha.forohub.domain.topico.records.TopicoDatosActualizar;
+import com.github.nelkha.forohub.domain.topico.records.TopicoDatosCrear;
+import com.github.nelkha.forohub.domain.topico.records.TopicoDatosVer;
 import io.swagger.v3.oas.annotations.security.SecurityRequirement;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;

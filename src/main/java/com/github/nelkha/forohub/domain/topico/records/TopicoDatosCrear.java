@@ -1,4 +1,4 @@
-package com.github.cesargh.forohub.domain.topico.records;
+package com.github.nelkha.forohub.domain.topico.records;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;

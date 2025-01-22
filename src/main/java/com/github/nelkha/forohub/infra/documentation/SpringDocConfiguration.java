@@ -1,4 +1,4 @@
-package com.github.cesargh.forohub.infra.documentation;
+package com.github.nelkha.forohub.infra.documentation;
 
 import io.swagger.v3.oas.models.Components;
 import io.swagger.v3.oas.models.info.Info;

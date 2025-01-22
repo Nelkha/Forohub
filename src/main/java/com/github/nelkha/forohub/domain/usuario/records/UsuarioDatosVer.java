@@ -1,7 +1,7 @@
-package com.github.cesargh.forohub.domain.usuario.records;
+package com.github.nelkha.forohub.domain.usuario.records;
 
-import com.github.cesargh.forohub.domain.perfil.Perfil;
-import com.github.cesargh.forohub.domain.usuario.Usuario;
+import com.github.nelkha.forohub.domain.perfil.Perfil;
+import com.github.nelkha.forohub.domain.usuario.Usuario;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.github.cesargh.forohub.infra.security;
+package com.github.nelkha.forohub.infra.security;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

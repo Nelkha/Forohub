@@ -1,10 +1,10 @@
-package com.github.cesargh.forohub.domain.topico;
+package com.github.nelkha.forohub.domain.topico;
 
-import com.github.cesargh.forohub.domain.curso.CursoRepository;
-import com.github.cesargh.forohub.domain.topico.records.TopicoDatosActualizar;
-import com.github.cesargh.forohub.domain.topico.records.TopicoDatosCrear;
-import com.github.cesargh.forohub.domain.topico.validations.TopicoValidationException;
-import com.github.cesargh.forohub.domain.usuario.UsuarioRepository;
+import com.github.nelkha.forohub.domain.curso.CursoRepository;
+import com.github.nelkha.forohub.domain.topico.records.TopicoDatosActualizar;
+import com.github.nelkha.forohub.domain.topico.records.TopicoDatosCrear;
+import com.github.nelkha.forohub.domain.topico.validations.TopicoValidationException;
+import com.github.nelkha.forohub.domain.usuario.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

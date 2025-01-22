@@ -1,4 +1,4 @@
-package com.github.cesargh.forohub.infra.exceptions;
+package com.github.nelkha.forohub.infra.exceptions;
 
 public class TokenServiceException extends RuntimeException {
     public TokenServiceException(String message) {

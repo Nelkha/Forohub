@@ -1,4 +1,4 @@
-package com.github.cesargh.forohub.domain.curso;
+package com.github.nelkha.forohub.domain.curso;
 
 public enum Categoria {
     CRIATURAS,

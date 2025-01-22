@@ -1,8 +1,8 @@
-package com.github.cesargh.forohub.domain.topico;
+package com.github.nelkha.forohub.domain.topico;
 
-import com.github.cesargh.forohub.domain.curso.Curso;
-import com.github.cesargh.forohub.domain.topico.records.TopicoDatosActualizar;
-import com.github.cesargh.forohub.domain.usuario.Usuario;
+import com.github.nelkha.forohub.domain.curso.Curso;
+import com.github.nelkha.forohub.domain.topico.records.TopicoDatosActualizar;
+import com.github.nelkha.forohub.domain.usuario.Usuario;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
@@ -60,5 +60,6 @@ public class Topico {
         this.mensaje = datos.mensaje();
         this.estado = datos.estado();
     }
+
 
 }

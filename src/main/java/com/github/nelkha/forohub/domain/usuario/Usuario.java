@@ -1,7 +1,7 @@
-package com.github.cesargh.forohub.domain.usuario;
+package com.github.nelkha.forohub.domain.usuario;
 
-import com.github.cesargh.forohub.domain.perfil.Perfil;
-import com.github.cesargh.forohub.domain.topico.Topico;
+import com.github.nelkha.forohub.domain.perfil.Perfil;
+import com.github.nelkha.forohub.domain.topico.Topico;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;

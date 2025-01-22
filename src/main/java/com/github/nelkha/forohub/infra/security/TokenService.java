@@ -1,11 +1,11 @@
-package com.github.cesargh.forohub.infra.security;
+package com.github.nelkha.forohub.infra.security;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.algorithms.Algorithm;
 import com.auth0.jwt.exceptions.JWTCreationException;
 import com.auth0.jwt.exceptions.JWTVerificationException;
-import com.github.cesargh.forohub.domain.usuario.Usuario;
-import com.github.cesargh.forohub.infra.exceptions.TokenServiceException;
+import com.github.nelkha.forohub.domain.usuario.Usuario;
+import com.github.nelkha.forohub.infra.exceptions.TokenServiceException;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 

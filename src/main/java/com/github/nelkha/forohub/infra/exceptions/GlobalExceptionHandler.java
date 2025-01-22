@@ -1,7 +1,7 @@
-package com.github.cesargh.forohub.infra.exceptions;
+package com.github.nelkha.forohub.infra.exceptions;
 
-import com.github.cesargh.forohub.domain.topico.validations.TopicoValidationException;
-import com.github.cesargh.forohub.domain.usuario.validations.UsuarioValidationException;
+import com.github.nelkha.forohub.domain.topico.validations.TopicoValidationException;
+import com.github.nelkha.forohub.domain.usuario.validations.UsuarioValidationException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.http.converter.HttpMessageNotReadableException;

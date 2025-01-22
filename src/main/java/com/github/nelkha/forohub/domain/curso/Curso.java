@@ -1,6 +1,6 @@
-package com.github.cesargh.forohub.domain.curso;
+package com.github.nelkha .forohub.domain.curso;
 
-import com.github.cesargh.forohub.domain.topico.Topico;
+import com.github.nelkha .forohub.domain.topico.Topico;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;

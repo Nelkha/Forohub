@@ -1,4 +1,4 @@
-package com.github.cesargh.forohub.domain.topico;
+package com.github.nelkha.forohub.domain.topico;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
